@@ -1,8 +1,8 @@
 import React from 'react';
 import '../assest/styles/App.scss';
 
-const HellowWorld=()=>(
+const HelloWorld=()=>(
     <h1>HellowWorld</h1>
 );
 
-export default HellowWorld;
+export default HelloWorld;
